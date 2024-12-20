@@ -1,11 +1,11 @@
 {
-    "name": "client_app",
-    "short_name": "client_app",
+    "name": "Minha Lista",
+    "short_name": "Listas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Minha Lista",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
