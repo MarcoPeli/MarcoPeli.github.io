@@ -2,6 +2,7 @@
     "name": "Minha Lista",
     "short_name": "MList",
     "start_url": ".",
+    "id": "/mylist/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
