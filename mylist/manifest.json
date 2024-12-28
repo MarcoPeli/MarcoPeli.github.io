@@ -9,9 +9,14 @@
     "description": "Minha Lista",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "icons": [
+    "icons": [ 
         {
-            "src": "icons/Icon.png",
+            "src": "icons/Icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512x512.png",
             "sizes": "192x192",
             "type": "image/png"
         }
