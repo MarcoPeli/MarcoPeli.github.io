@@ -3,7 +3,7 @@
 Access Mylist app here: [https://marcopeli.github.io/mylist](https://marcopeli.github.io/mylist)
   - Mylist APK here: [https://marcopeli.github.io/mylist/mylist3.apk](https://marcopeli.github.io/mylist/mylist3.apk)
 
-My Player APK: [https://marcopeli.github.io/myplayer.apk](https://marcopeli.github.io/myplayer.apk?v=19)
+My Player APK: [https://marcopeli.github.io/myplayer.apk](https://marcopeli.github.io/myplayer.apk?v=21)
 
 <br>
 <br>
